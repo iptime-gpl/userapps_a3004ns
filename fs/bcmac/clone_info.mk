@@ -1,0 +1,1 @@
+clones/a3004ns/clone_info.mk
